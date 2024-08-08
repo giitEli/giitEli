@@ -28,6 +28,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<div align="center">
+<p>
+    Hi, my name is Eli, and I am currently working for a tech startup that focuses on advertising. I’m from Houston Texas, but have been living in Anacortes Washington for the past decade. I am an App Academy and avid coder looking to improve my skills. I have completed multiple full stack applications such as a Discord clone called Connect which utilizes websockets to create a seamless live chat experience. I am a CrossFit athlete and avid gamer. I have a youtube channel where I mainly do gaming challenge content. I love working with javascript, react, and html to build a polished user experience.
+</p>
+<p>
+    I am always eager to take on new challenges and collaborate with passionate individuals. If you're looking to code and improve with me I would love to connect!
+</p>
+</div>
 
 ### :fire: My Stats :
 
