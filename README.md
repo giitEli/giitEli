@@ -15,9 +15,9 @@
 <div align="center">
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Anacortes.
 </div>
----
-
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center">
+    :hammer_and_wrench: Languages and Tools :
+</h3>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -27,10 +27,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h3>
+<h3 align="center">
     :fire: My Stats :
 </h3>
 <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gittEli&theme=dark&background=000000)](https://git.io/streak-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gittEli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giitEli&theme=dark&background=000000)](https://git.io/streak-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giitEli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
